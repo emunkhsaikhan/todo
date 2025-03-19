@@ -27,7 +27,7 @@ export default function Home() {
             </TabsList>
             <div className="flex justify-between w-full">
               <h1 className="text-2xl font-medium">TASKS</h1>
-              <Button>Add to list</Button>
+              <Button>Add front</Button>
             </div>
             <TabsContent value="all" className="w-full">
               <Table>
